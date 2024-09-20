@@ -8,7 +8,7 @@ import java.util.*;
 
 public abstract class ModernAppliances {
 
-	public static final String APPLIANCES_TEXT_FILE = "src/ModernAppliances/appliances.txt";
+	public static final String APPLIANCES_TEXT_FILE = "ModernApplianceJS\\src\\ModernAppliances\\appliances.txt";
 
     public enum Options {
         None,
